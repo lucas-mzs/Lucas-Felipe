@@ -5,6 +5,8 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-mzs&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-mzs)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que tenho conhecimento:
 
 <div style="display: inline_block">
@@ -31,4 +33,5 @@
 
 ## Meio de contato:
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucas.felipe.lfmf@gmail.com)
+lucas.felipe.lfmf@gmail.com  
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
