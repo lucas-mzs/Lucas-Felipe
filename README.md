@@ -43,4 +43,5 @@
 
 ## Meio de contato:
 
-lucas.felipe.lfmf@gmail.com 
+lucas.felipe.lfmf@gmail.com    
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
